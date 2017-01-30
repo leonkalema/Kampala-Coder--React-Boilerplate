@@ -1,0 +1,148 @@
+﻿{
+  "English": 
+	{
+    "Header": 
+		{
+      "title": "Start Bootstrap Theme",
+      "toggle": "Toggle navigation",
+      "menu": "Menu",
+      "nav": [
+        "Download",
+        "Features",
+        "Contact"
+ , "Language"      ]
+    },
+
+   	     "Section1": {
+      "heading": "New Age is an app landing page that will help you beautifully showcase your new mobile app, or anything else!",
+      "button": "Start Now for Free!"
+    },
+
+             "Secrion2": {
+      "heading2": "Discover what all the buzz is about!",
+      "paragraph2": "Our app is available on any mobile device! Download now to get started!"
+    },
+         
+    "Section3": {
+      "heading3": "Unlimited Features, Unlimited Fun",
+      "paragraph3": "Check out what you can do with this app theme!",
+
+      	     	"block1": [
+        "Device Mockups",
+        "Ready to use HTML/CSS device mockups, no Photoshop required!"
+      ],
+
+                "block2": [
+        "Flexible Use",
+        "Put an image, video, animation, or anything else in the screen!"
+      ],
+          
+      "block3": [
+        "Free to Use",
+        "As always, this theme is free to download and use for any purpose!"
+      ],
+
+                "block4": [
+        "Open Source",
+        "Since this theme is MIT licensed, you can use it commercially!"
+      ]
+    },
+
+             "Section4": {
+      "heading4": [
+        "Stop waiting.",
+        "Start building."
+      ],
+"button4": "Let's Get Started!"
+    },
+         
+    "Section5": {
+      "heading5": [
+        "We",
+        "new friends!"
+      ]
+    },
+
+             "Footer": {
+      "copyrights": "2016 Start Bootstrap. All Rights Reserved.",
+      "list": [
+        "Privacy",
+        "Terms",
+        "FAQ"
+      ]
+    }
+  },
+
+
+  "French": 
+	{
+    "Header": {
+      "title": "Démarrer le thème Bootstrap",
+      "toggle": "Basculer la navigation",
+      "menu": "le menu",
+ "nav": [
+"Télécharger",
+ "Caractéristiques",
+ "Contact","La langue"
+]
+ },
+
+    		"Section1": {
+      "heading": "New Age est une page d'atterrissage sur une application qui vous aidera à mettre en valeur votre nouvelle application mobile ou autre chose! ", "button": "Commencez maintenant gratuitement!"
+    },
+
+    		"Section2": {
+      "heading2": "Découvrez ce que tout le buzz est!",
+      "paragraph2": "Notre application est disponible sur tout appareil mobile! Téléchargez maintenant pour commencer!"
+    },
+
+    		"Section3": {
+      "heading3": "Fonctions illimitées, plaisir illimité",
+      "paragraph3": "Découvrez ce que vous pouvez faire avec ce thème d'application!",
+
+		      "block1": [ 
+"Mappage des périphériques",
+ "Prêt à utiliser des maquettes de périphériques HTML / CSS, aucun Photoshop requis!"
+ ],
+
+ 		      "block2": [
+ "Utilisation flexible",
+ "Mettez une image, une vidéo, une animation ou toute autre chose sur l'écran!"
+      ],
+      
+		      "block3": [
+ "Libre à utiliser",
+ "Comme toujours, ce thème est libre de télécharger et d'utiliser pour n'importe quel but!"
+      ],
+      
+		      "block4": [
+ "Open source",
+ "Comme ce thème est titulaire d'une licence MIT, vous pouvez l'utiliser commercialement!"
+      ]
+    },
+    
+		"Section4": {
+      "heading4": [
+        "Arrêtez d'attendre.",
+        "Commencer à construire."
+      ],
+      "button4": "Commençons"
+    },
+    
+		"Section5": {
+      "heading5": [
+        "nous",
+        "nouveaux amis!"
+      ]
+    },
+ 
+   "Footer": {
+      "copyrights": "2016 Démarrer Bootstrap. Tous les droits sont réservés.",
+ "list": [
+ "Intimité",
+ "termes",
+ "FAQ"
+      ]
+    }
+  }
+}
